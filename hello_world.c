@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "common_defs.h"
 
 int main(void){
     printf("Hello World!");
